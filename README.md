@@ -1,10 +1,16 @@
+
+
  Hello im UpsidedownProduction or know as seedyProduction or know as StoneCode or Whatever is the name of my reddit acoount or whatever i do not care how you call me if you want call me idiot, 
  im a python, css and html dev and i was a modpack creator on modrinth but after a while i decided to close the modrinth project since i din't have time to continue the project. 
  Im in university and im in italy Hi we make great pizza here. 
 
-
+<h1>-------------------------------------📊 Stats 📊-----------------------------</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mada748&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="mada748's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mada748&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="mada748's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=mada748&theme=jolly&hide_border=true" alt="mada748's GitHub Stats" />
+
+<h1>------------------------------------ Projects --------------------------------</h1>
 
 | My Projects                                                                             | Status                                                      |
 | --------------------------------------------------------------------------------------  | ----------------------------------------------------------- |   
