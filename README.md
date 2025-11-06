@@ -20,3 +20,4 @@
 | <a link href="https://github.com/mada748/Progetto-natura">Progetto Natura</a>           | Still alive i guess but im wating for the team to do things |
 | <a link href="https://modrinth.com/user/UpsideDownProduction">Modrinth Project</a>      | Im crying                                                   |
 | <a link href="https://github.com/mada748/RatCode">RatCode</a>                           | Yeah this is alive after the creation 2 seconds ago         |
+| <a link href="https://github.com/mada748/AI-Website-Check">Ai-Website-check</a>         | people who use ai should be eliminated by the slaught-
