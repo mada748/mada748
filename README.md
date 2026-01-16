@@ -8,6 +8,7 @@
 
 <img src="https://github-readme-stats-stonecode.vercel.app/api/top-langs/?username=mada748&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="mada748's GitHub Stats" />
 <img src="https://github-readme-stats-stonecode.vercel.app/api?username=mada748&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="mada748's GitHub Stats" />
+> btw i din't restore the GitHub token so now this doesn't work
 <img src="https://streak-stats.demolab.com?user=mada748&theme=jolly&hide_border=true" alt="mada748's GitHub Stats" />
 
 <h1>------------------------------------ Projects --------------------------------</h1>
